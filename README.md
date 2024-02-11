@@ -1,7 +1,7 @@
 # Repository information
 The two Pdf's contain the plots made using PowerBI for the credit defaulter dataset.
 The data set contains 5000 rows, with features containing gender, income, organization type, car owner, children count, family status, and type of loan.
-The pdf named _Defaulter_ contains the plots with data for the "defaulters" and the pdf named _NotDefaulter_ contains the plots for the values which are "non-defaulters".
+The pdf named _Defaulter_ contains the dashboard with data for the "defaulters" and the pdf named _NotDefaulter_ contains the dashboard for the values which are "non-defaulters".
 The file _OriginalFile_ is the power BI .pbix file
 
 # Data Analysis (conclusions from the dataset)
